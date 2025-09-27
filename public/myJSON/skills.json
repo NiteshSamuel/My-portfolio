@@ -1,0 +1,90 @@
+{
+  "React": {
+    "name": "React",
+    "logo": "https://raw.githubusercontent.com/reactjs/reactjs.org/main/src/icons/logo.svg"
+  },
+  "Redux": {
+    "name": "Redux",
+    "logo": "https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white"
+  },
+  "Node.js": {
+    "name": "Node.js",
+    "logo": "https://img.shields.io/badge/node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white"
+  },
+  "Express.js": {
+    "name": "Express.js",
+    "logo": "https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white"
+  },
+  "MongoDB": {
+    "name": "MongoDB",
+    "logo": "https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"
+  },
+  "GraphQL": {
+    "name": "GraphQL",
+    "logo": "https://img.shields.io/badge/GraphQL-E10098.svg?style=for-the-badge&logo=graphql&logoColor=white"
+  },
+  "Next.js": {
+    "name": "Next.js",
+    "logo": "https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white"
+  },
+  "Docker": {
+    "name": "Docker",
+    "logo": "https://www.docker.com/wp-content/uploads/2022/03/horizontal-logo-monochromatic-light-default.svg"
+  },
+  "Kubernetes": {
+    "name": "Kubernetes",
+    "logo": "https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white"
+  },
+  "Jenkins": {
+    "name": "Jenkins",
+    "logo": "https://img.shields.io/badge/Jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white"
+  },
+  "Terraform": {
+    "name": "Terraform",
+    "logo": "https://img.shields.io/badge/Terraform-623CE4.svg?style=for-the-badge&logo=terraform&logoColor=white"
+  },
+  "Ansible": {
+    "name": "Ansible",
+    "logo": "https://img.shields.io/badge/Ansible-000000.svg?style=for-the-badge&logo=ansible&logoColor=white"
+  },
+  "Java": {
+    "name": "Java",
+    "logo": "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"
+  },
+  "Spring Boot": {
+    "name": "Spring Boot",
+    "logo": "https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white"
+  },
+  "Hibernate": {
+    "name": "Hibernate",
+    "logo": "https://img.shields.io/badge/Hibernate-59666C.svg?style=for-the-badge&logo=hibernate&logoColor=white"
+  },
+  "Maven": {
+    "name": "Maven",
+    "logo": "https://img.shields.io/badge/Apache%20Maven-C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white"
+  },
+  "JUnit": {
+    "name": "JUnit",
+    "logo": "https://img.shields.io/badge/JUnit-25A162.svg?style=for-the-badge&logo=JUnit&logoColor=white"
+  },
+  "Solidity": {
+    "name": "Solidity",
+    "logo": "https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white"
+  },
+  "Ethereum": {
+    "name": "Ethereum",
+    "logo": "https://img.shields.io/badge/Ethereum-3C3C3D.svg?style=for-the-badge&logo=ethereum&logoColor=white"
+  },
+  "Web3.js": {
+    "name": "Web3.js",
+    "logo": "https://img.shields.io/badge/web3.js-F16822.svg?style=for-the-badge&logo=web3.js&logoColor=white"
+  },
+  "Truffle": {
+    "name": "Truffle",
+    "logo": "https://img.shields.io/badge/Truffle-9B5DE5.svg?style=for-the-badge&logo=truffle&logoColor=white"
+  },
+  "IPFS": {
+    "name": "IPFS",
+    "logo": "https://img.shields.io/badge/IPFS-000000.svg?style=for-the-badge&logo=ipfs&logoColor=white"
+  }
+}
